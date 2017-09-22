@@ -8,7 +8,7 @@ function myFunction() {
   }
 }
 
-function exitFuntion() {
+function exitFunction() {
   var y = document.getElementById('menu');
     
   if (y.style.display === 'block') {
