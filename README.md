@@ -23,4 +23,4 @@ For  hire:
             4. add a bio of what you do and what you enjoy
             5. why should we pick you?
             
-      a. send this to use via E-mail (adam@keypixel.com) or through git-hub
+      a. send this to us via E-mail (adam@keypixel.com) or through git-hub
