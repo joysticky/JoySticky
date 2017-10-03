@@ -5,7 +5,7 @@ game site
 For pushing and pulling code:
   
   1. make sure the versions are matching between all files.
-    a. can be found at the top of the file in a coment or in the descriton.
+    a.  versions can be found at the top of the file in a coment or in the descriton.
     b. if they do not please contact someone (preferably the person who commited the document) 
     
   2. when pushing files make sure that they are organized to the structure of git-hub not your file manager.
